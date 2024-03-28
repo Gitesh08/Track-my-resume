@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+docx2txt
+PyPDF2
+streamlit-lottie
