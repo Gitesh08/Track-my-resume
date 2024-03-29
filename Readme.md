@@ -2,7 +2,7 @@
 > Track My Resume Application is an Applicant Tracking System (ATS) built using the Gemini Pro LLM model for natural language processing and classification. It allows users to streamline their hiring process by efficiently managing resumes, extracting text from various file formats, and providing insights into applicant data.
 
 
-#### Features:
+### Features:
 - Resume Tracking: Easily manage and track resumes of job applicants.
 - Text Extraction: Extract text content from PDF and DOCX files for further processing.
 - Streamlit Interface: User-friendly web interface powered by Streamlit.
@@ -10,7 +10,7 @@
 - Google Generative AI Integration: Enhances the application with advanced AI capabilities.
 - Environment Configuration: Integration with python-dotenv for environment variable management.
 
-#### Dependencies:
+### Dependencies:
 - Gemini Pro LLM: Natural language processing model for text classification.
 - Streamlit: Web application framework for building interactive web applications.
 - Google Generative AI: Integrates advanced AI capabilities into the application.
@@ -20,7 +20,7 @@
 - PyPDF2: Library for reading and manipulating PDF files.
 - streamlit-lottie: Library for adding Lottie animations to Streamlit applications.
 
-#### Installation:
+### Installation:
 
 Clone the repository:
 ```
@@ -55,8 +55,10 @@ streamlit run app.py
 ```
 Access the application through your web browser using the provided local address.
 
-#### Contributing
+
+### Contributing
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
 
-#### License
+
+### License
 This project is licensed under the MIT License.
