@@ -56,7 +56,7 @@ streamlit run app.py
 Access the application through your web browser using the provided local address.
 
 
-### Contributing
+### Contributing :handshake:
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
 
 
