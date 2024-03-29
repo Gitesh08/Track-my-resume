@@ -84,8 +84,8 @@ def load_lottieurl(url: str):
 
 lottie_checking = load_lottiefile("assests/checking.json")
  
-lottie_notmatched = load_lottiefile("assests/notmatched.json")
-lottie_matched = load_lottiefile("assests/matched.json")
+#lottie_notmatched = load_lottiefile("assests/notmatched.json")
+#lottie_matched = load_lottiefile("assests/matched.json")
 
 st.set_page_config(page_title="ATS Resume Pro")
 
